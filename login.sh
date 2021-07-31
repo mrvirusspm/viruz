@@ -15,7 +15,7 @@ echo $red
 figlet Hay $name
 sleep 1
 echo $cyan"×××××××××××××××××××××××××××××××××××××××××××××××××"
-echo $white" A"$white"u"\033[37;1m"t"$white"hor"\033[37;1m" : "\033[37;1m"P"\033[37;1m"a"\033[37;1m"n"\033[37;1m"g"\033[37;1m"l"\033[37;1m"i"\033[37;1m"ma"\033[37;1m" Ja"\033[37;1m"te"\033[37;1m"ng"
+echo $white" Author : Panglima Jateng"
 echo " Team   : Mafia Teknologi Indonesia"
 echo $cyan"×××××××××××××××××××××××××××××××××××××××××××××××××"
 echo
